@@ -8,7 +8,7 @@ fs.readFile('barbill.jpg', function(err, image){
 var barBill = {
     "Comment": "Team Dinner",
     "CurrencyCode": "USD",
-    "ExpenseTypeCode": "DINNR",
+    "ExpenseTypeCode": "BUSML",
     "LocationCity": "San Francisco",
     "LocationCountry": "US",
     "LocationSubdivision": "US-CA",
